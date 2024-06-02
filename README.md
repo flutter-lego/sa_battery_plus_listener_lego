@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/sa_battery_plus_listener_lego.svg)](https://pub.dartlang.org/packages/sa_battery_plus_listener_lego)
 
 # sa_battery_plus_listener_lego
-description here
+battery listener lego under simple architecture framework
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -17,4 +17,4 @@ lego add sa_battery_plus_listener_lego
 ```
 
 ## Usage
-Usage here
+check here `lib/app/frontend/listener/battery_plus.dart`

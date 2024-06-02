@@ -1,7 +1,7 @@
 name: sa_battery_plus_listener_lego
-description: "lego is all you need"
+description: "battery listener lego under simple architecture framework"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/sa_battery_plus_listener_lego
 
 version: 1.0.0
 
